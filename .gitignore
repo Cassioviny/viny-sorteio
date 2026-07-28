@@ -1,0 +1,21 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+
+# Editor temp
+*.swp
+*~
